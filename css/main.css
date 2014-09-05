@@ -1,0 +1,16 @@
+dl {
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+dt {
+    float: left;
+    clear: left;
+    width: 8rem;
+}
+
+dd {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
